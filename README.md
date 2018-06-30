@@ -5,39 +5,39 @@ This is the repository for semester project for [Katja Dittrich’s](https://ucl
 
 ## The list of projects
 
-	* [Simple Chart](../exoplanets)
+	[Simple Chart](../exoplanets)
 
 	The assignment was to visualize [List of Exoplanets in the Conservative and Optimistic Habitable Zone](https://github.com/Letty/infovis-with-d3js/tree/master/assignments/datasets/exoplanets#list-of-exoplanets-in-the-conservative-and-optimistic-habitable-zone) dataset. 
 
     <img src="./img/exoplanets.png" alt="exoplanets" width="700px" height="500px">
 
-	* [Chart with interaction](../journalists_kills)
+	[Chart with interaction](../journalists_kills)
     The task was to visualize [Journalists Killed since 1992](https://www.kaggle.com/cpjournalists/journalists-killed-worldwide-since-1992) dataset with interactions, legends and scaling functions 
 
     <img src="./img/journalists_kills.png" width="700px" height="500px">
 
-	* [Map](../map)
+	[Map](../map)
     
     The next one was a visualization of [Meteorite Landings on Earth between 1900 and 2013](https://www.kaggle.com/nasa/meteorite-landings) dataset.
     
     <img src="./img/map.gif" alt="exoplanets" width="700px" height="500px"> 
 	
-    * [Coordinated Views](../coordinated_views)
+    [Coordinated Views](../coordinated_views)
     
     During the last one we could choose one of the previous dataset, but this time we had to to connect two visualizations with interaction. I choose dataset from the second assignment.
     
     <img src="./img/jd.gif" alt="exoplanets" width="700px" height="500px"> 
 
 ## Setup
-	*	Clone this repo 
+	1.	Clone this repo 
 
-    *   Run the server
+    2.  Run the server
 
         python -m SimpleHTTPServer <portnumber>
         
         for pyhton 3: python -m http.server <portnumber>`` replace``` with a four digit number
     
-    *   check your browser under localhost:<portnumber>
+    3.  Check your browser under localhost:<portnumber>
 	
 ## License
 This project is licensed under the terms of the MIT license.
