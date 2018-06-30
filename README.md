@@ -11,6 +11,7 @@ The assignment was to visualize [List of Exoplanets in the Conservative and Opti
 <img src="./img/exoplanets.png" alt="exoplanets" width="50%" height="50%">
 
 [Chart with interaction](../journalists_kills)
+
 The task was to visualize [Journalists Killed since 1992](https://www.kaggle.com/cpjournalists/journalists-killed-worldwide-since-1992) dataset with interactions, legends and scaling functions 
 
 <img src="./img/journalists_kills.png" width="50%" height="50%">
